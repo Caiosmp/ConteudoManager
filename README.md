@@ -42,10 +42,6 @@ Este projeto foi desenvolvido em **Java** com o banco de dados **HSQLDB** e ofer
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   Se estiver usando Maven:
-  mvn clean install
-  mvn exec:java -Dexec.mainClass="com.mycompany.app.Main"
-  
 ---
 
 ## 👩‍💻 Demonstração
